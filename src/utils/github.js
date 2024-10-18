@@ -165,5 +165,3 @@ async function fetchAndFilterEvents() {
 module.exports = {
     fetchAndFilterEvents,
 };
-
-// Ni Cai Zen Me Zhau? Wo You Huei Lai Le!
